@@ -15,7 +15,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/Kartikeyg03012/YouTube-Clone) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/Kartikeyg03012/YouTube-Clone/archive/refs/heads/main.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
