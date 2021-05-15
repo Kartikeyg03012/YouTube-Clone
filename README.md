@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/Kartikeyg03012/YouTube-Clone.git
-> cd ReduxSimpleStarter
+> cd FOLDER_NAME
 > npm install
 > npm start
 ```
